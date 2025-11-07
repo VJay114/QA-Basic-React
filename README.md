@@ -1,4 +1,4 @@
-# Dotnet-QA-Console (React Version)
+# QA-Basic-React
 
 This is a **React-based interactive quiz app** designed for new developers to practice fundamental programming concepts.  
 It’s inspired by the original **C# .NET console version**, but rebuilt with a modern web interface for better engagement and accessibility.

@@ -40,10 +40,6 @@ This project serves as both:
 
 ---
 
-## 🎮 Live Demo
-
-👉 Try it **[online](https://qa-basic-react.vercel.app/)**:
-
 ## 👨‍💻 Author
 
 Developed by **Jaypro**  
@@ -58,3 +54,7 @@ Developed by **Jaypro**
    ```bash
    git clone https://github.com/<your-username>/dotnet-QA-Console.git
    cd dotnet-QA-Console
+
+
+👉 Try it **[online](https://qa-basic-react.vercel.app/)**:
+

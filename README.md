@@ -40,6 +40,11 @@ This project serves as both:
 
 ---
 
+🎮 Live Demo
+
+👉 Try it **[online](https://qa-basic-react.vercel.app/)**:
+The app presents randomized multiple-choice questions, checks your answers, and gives you instant feedback along with a final score.
+
 ## 👨‍💻 Author
 
 Developed by **Jaypro**  

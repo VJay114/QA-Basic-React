@@ -40,6 +40,14 @@ This project serves as both:
 
 ---
 
+## 👨‍💻 Author
+
+Developed by **Jaypro**  
+🎯 For **new developer training** and interactive learning  
+🧩 Original console version: [dotnet-QA-Console](https://github.com/VJay114/dotnet-QA-Console)
+
+---
+
 ## 🧰 How to Run Locally
 
 1. Clone this repository:

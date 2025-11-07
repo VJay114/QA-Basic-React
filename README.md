@@ -56,5 +56,5 @@ Developed by **Jaypro**
    cd dotnet-QA-Console
 
 
-👉 Try it **[online](https://qa-basic-react.vercel.app/)**:
+👉 Try it **[online](https://qa-basic-react.vercel.app/)**
 
